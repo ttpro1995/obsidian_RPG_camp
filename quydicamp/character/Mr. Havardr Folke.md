@@ -2,7 +2,7 @@
 Havardr Folke - Nam 21 tuổi
 
 
-![Havardr Folke](98ed788d1b87c6360273db24fd389343.jpg)
+![Havardr Folke](../../common_image/steampunk/young_man.jpg)
 
 Nghề hiện tại: Lao động trong hiệu sách nhỏ tại địa phương.
 
