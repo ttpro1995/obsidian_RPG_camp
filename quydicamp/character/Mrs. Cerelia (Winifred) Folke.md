@@ -1,4 +1,4 @@
 Mẹ của [[Mr. Havardr Folke]]
 
-Làm nội trợ. 
+Làm nội trợ (?! thật hok ?)
 

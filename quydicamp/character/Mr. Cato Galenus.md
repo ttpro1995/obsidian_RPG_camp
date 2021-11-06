@@ -4,5 +4,6 @@ Age ??
 
 Chủ nhà sách [[Bookstore-Brightwood]] làm việc.
 
-![[old_man_with_book.jpg]]
+
+![old_man_with_book](old_man_with_book.jpg)
 
